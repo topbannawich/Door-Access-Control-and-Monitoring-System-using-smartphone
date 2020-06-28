@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924641059128",
+    "firebase_url": "https://smartlock-5a81e.firebaseio.com",
+    "project_id": "smartlock-5a81e",
+    "storage_bucket": "smartlock-5a81e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924641059128:android:d458b73b96f83a19",
+        "android_client_info": {
+          "package_name": "com.example.passagon.final402"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924641059128-1b8hrs13gs8cqd68iiuua80e21ci54bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.passagon.final402",
+            "certificate_hash": "87280870771195cb19a8fcec70f68ccde23599c7"
+          }
+        },
+        {
+          "client_id": "924641059128-6ee6r9fc3s6q6q19lspl12lpujt2fg2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiesCoDTcnq0L_JpnWoZGCixmDULm5nR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924641059128-6ee6r9fc3s6q6q19lspl12lpujt2fg2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
